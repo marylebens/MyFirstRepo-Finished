@@ -1,0 +1,15 @@
+/workspaces/MyFirstRepo-Finished/HelloWorld/bin/Debug/net10.0/HelloWorld
+/workspaces/MyFirstRepo-Finished/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/workspaces/MyFirstRepo-Finished/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/workspaces/MyFirstRepo-Finished/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/workspaces/MyFirstRepo-Finished/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/HelloWorld.sourcelink.json
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/workspaces/MyFirstRepo-Finished/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll
